@@ -1,0 +1,218 @@
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 500 Internal Server Error in 8ms
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Could not log "process_action.action_controller" event. NoMethodError: undefined method `-' for nil:NilClass ["/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/activesupport-4.1.1/lib/active_support/notifications/instrumenter.rb:61:in `duration'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/actionpack-4.1.1/lib/action_controller/log_subscriber.rb:29:in `process_action'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/activesupport-4.1.1/lib/active_support/subscriber.rb:91:in `finish'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/activesupport-4.1.1/lib/active_support/log_subscriber.rb:83:in `finish'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/activesupport-4.1.1/lib/active_support/notifications/fanout.rb:96:in `finish'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/activesupport-4.1.1/lib/active_support/notifications/fanout.rb:40:in `block in finish'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/activesupport-4.1.1/lib/active_support/notifications/fanout.rb:40:in `each'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/activesupport-4.1.1/lib/active_support/notifications/fanout.rb:40:in `finish'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/activesupport-4.1.1/lib/active_support/notifications/instrumenter.rb:36:in `finish'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/activesupport-4.1.1/lib/active_support/notifications/instrumenter.rb:25:in `ensure in instrument'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/activesupport-4.1.1/lib/active_support/notifications/instrumenter.rb:25:in `instrument'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/activesupport-4.1.1/lib/active_support/notifications.rb:159:in `instrument'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/actionpack-4.1.1/lib/action_controller/metal/instrumentation.rb:30:in `process_action'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/actionpack-4.1.1/lib/action_controller/metal/params_wrapper.rb:250:in `process_action'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/actionpack-4.1.1/lib/abstract_controller/base.rb:136:in `process'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/actionview-4.1.1/lib/action_view/rendering.rb:30:in `process'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/actionpack-4.1.1/lib/action_controller/test_case.rb:595:in `process'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/actionpack-4.1.1/lib/action_controller/test_case.rb:64:in `process'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/actionpack-4.1.1/lib/action_controller/test_case.rb:495:in `get'", "/Users/Ryan/workspace/api_status/test/controllers/api_status/api/status_controller_test.rb:52:in `block (2 levels) in <class:StatusControllerTest>'", "/Users/Ryan/workspace/api_status/test/controllers/api_status/api/status_controller_test.rb:19:in `call'", "/Users/Ryan/workspace/api_status/test/controllers/api_status/api/status_controller_test.rb:19:in `mock_time'", "/Users/Ryan/workspace/api_status/test/controllers/api_status/api/status_controller_test.rb:48:in `block in <class:StatusControllerTest>'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest/test.rb:106:in `block (3 levels) in run'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest/test.rb:204:in `capture_exceptions'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest/test.rb:103:in `block (2 levels) in run'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest/test.rb:256:in `time_it'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest/test.rb:102:in `block in run'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest.rb:317:in `on_signal'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest/test.rb:276:in `with_info_handler'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest/test.rb:101:in `run'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest.rb:759:in `run_one_method'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest.rb:293:in `run_one_method'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest.rb:287:in `block (2 levels) in run'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest.rb:286:in `each'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest.rb:286:in `block in run'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest.rb:317:in `on_signal'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest.rb:306:in `with_info_handler'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest.rb:285:in `run'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest.rb:149:in `block in __run'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest.rb:149:in `map'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest.rb:149:in `__run'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest.rb:126:in `run'", "/Users/Ryan/.rvm/gems/ruby-1.9.3-p286/gems/minitest-5.3.3/lib/minitest.rb:55:in `block in autorun'"]
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
+-------------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_returns_api_success_json
+-------------------------------------------------------------------
+Processing by ApiStatus::Api::StatusController#show as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+---------------------------------------------------------------
+ApiStatus::Api::StatusControllerTest: test_routes_to_api/status
+---------------------------------------------------------------
