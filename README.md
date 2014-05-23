@@ -1,4 +1,4 @@
-ApiStatus
+Pulse
 -----------
 
 adds a basic status check route to an application
@@ -6,13 +6,13 @@ adds a basic status check route to an application
 ##Installation
 Add the following line to your gem file
 ```ruby
-gem 'api_status', git: 'git@github.com:RyanV/api_status.git' 
+gem 'pulse', git: 'git@github.com:RyanV/pulse.git' 
 ```
 
 Then mount the engine:
 ```ruby
 Rails.application.routes.draw do
-  mount ApiStatus::Engine => '/'
+  mount Pulse::Engine => '/'
 end
 ```
 
