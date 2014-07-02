@@ -5,8 +5,8 @@ require "api_status/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "api_status"
-  s.version     = ApiStatus::VERSION
+  s.name        = "pulse"
+  s.version     = Pulse::VERSION
   s.authors     = ['Ryan Venegas']
   s.email       = ['rvemegas2@gmail.com']
   s.homepage    = "http://www.github.com/RyanV/api_status"
